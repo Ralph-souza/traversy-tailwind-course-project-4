@@ -1,0 +1,24 @@
+{
+  "name": "traversy-tailwind-course-project-4",
+  "version": "1.0.0",
+  "description": "This project is basic a testimonial website page built with TailwindCSS framework using GRID positioning from Brad Traversy`s Tailwind Course on Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/style.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ralph-souza/traversy-tailwind-course-project-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ralph-souza/traversy-tailwind-course-project-4/issues"
+  },
+  "homepage": "https://github.com/Ralph-souza/traversy-tailwind-course-project-4#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
