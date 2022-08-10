@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Ralph-souza/traversy-tailwind-course-project-4#readme",
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.0",
     "tailwindcss": "^3.1.8"
   }
 }
